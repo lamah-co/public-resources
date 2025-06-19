@@ -8,6 +8,14 @@ This directory contains public-facing resources used in the **Sanad AI assistant
 |-------------|---------------------|--------------------------------------------------------------------------|
 | `logo.png` | eSIM QR code example | `https://raw.githubusercontent.com/lamah-co/public-resources/main/sanad/logo.png` |
 
+
+## 📄 Cached Files
+
+| File Name   | Description         | Raw URL                                                                 |
+|-------------|---------------------|--------------------------------------------------------------------------|
+| `logo.png` | eSIM QR code example | `https://cdn.jsdelivr.net/gh/lamah-co/public-resources@main/sanad/logo.png` |
+
+
 ---
 
 ✅ All assets are optimized for use in HTML emails and chatbot flows.
