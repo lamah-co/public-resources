@@ -10,6 +10,7 @@ Each project has its own directory with relevant media files, documentation, and
 
 - [`eshaar`](./eshaar/) — Media assets for the Eshaar SMS platform.
 - [`sanad`](./sanad/) — Resources for the Sanad AI travel assistant project.
+- [`sanad ride hailing`](./sanad%20ride%20hailing/) — Square, padded logos for the Sanad ride-hailing platform.
 
 ---
 
